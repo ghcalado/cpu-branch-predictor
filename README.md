@@ -1,5 +1,6 @@
 <img width="298" height="300" alt="Captura de Tela 2026-05-01 às 19 07 54" src="https://github.com/user-attachments/assets/812e146f-05fd-4369-9492-9f4f2eff2d9c" />
 <img width="1437" height="805" alt="Captura de Tela 2026-05-01 às 19 07 40" src="https://github.com/user-attachments/assets/98af9784-2162-43e0-92b2-79ef37b105c3" />
+
 # cpu-branch-predictor
 
 > Interactive dashboard comparing classical 2-bit branch prediction against ML models implemented from scratch — no scikit-learn, no PyTorch, no ML libraries.
