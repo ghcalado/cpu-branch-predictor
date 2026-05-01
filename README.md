@@ -125,3 +125,10 @@ The alternating pattern is where ML models outperform the classical predictor by
 ## ◈ License
 
 MIT
+
+## Author
+
+**Ghabriel Calado**
+Computer Science Student | Python & AI
+
+[GitHub](https://github.com/ghcalado) · [LinkedIn](https://www.linkedin.com/in/ghabriel-calado-7132a33b6/)
